@@ -11,3 +11,6 @@
     padding: 4px 9px 3px;
     color: #ef00ff;
 }
+.messageGroupBlocked-3wrQQX {
+  display: none !important;
+}
