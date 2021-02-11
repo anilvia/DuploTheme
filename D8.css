@@ -28,8 +28,7 @@
 --HSL-server-icon-size: 42px;
 --HSL-server-spacing: 6px;
     --scrollbar-thin-thumb: #00000000;
-    --scrollbar-thin-track: transparent;
-    --scrollbar-auto-thumb: #00000000;
+    --scrollbar-thin-track: #b613de;
     --scrollbar-auto-track: #00000000;
     --scrollbar-auto-thumb: #b613de;
     --scrollbar-auto-scrollbar-color-track: #00000000;
