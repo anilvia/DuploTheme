@@ -5,6 +5,11 @@
 @import url('https://anilvia.github.io/DuploTheme/HSW.css');
 @import url('https://anilvia.github.io/DuploTheme/Radial.css');
 :root {
+--scrollbar-thin-thumb: #00000000;
+    --scrollbar-thin-track: #b613de1c;
+    --scrollbar-auto-track: #00000000;
+    --scrollbar-auto-thumb: #b613de00;
+    --scrollbar-auto-scrollbar-color-track: #00000000;
 --themeColor1: rgba(219,0,235,0.95);
 --themeColor2: rgba(0,64,255,0.95);
 --customFont: 'Open Sans', sans-serif;
@@ -27,12 +32,7 @@
 
 --HSL-server-icon-size: 42px;
 --HSL-server-spacing: 6px;
-    --scrollbar-thin-thumb: #00000000;
-    --scrollbar-thin-track: #b613de;
-    --scrollbar-auto-track: #00000000;
-    --scrollbar-auto-thumb: #b613de;
-    --scrollbar-auto-scrollbar-color-track: #00000000;
-}
+ }
 .membersWrap-2h-GB4 {
 	width: 10px;
 	min-width: unset;
