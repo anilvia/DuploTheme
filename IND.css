@@ -14,3 +14,37 @@
 .messageGroupBlocked-3wrQQX {
   display: none !important;
 }
+.scrollableContainer-2NUZem {
+    overflow-x: hidden;
+    overflow-y: scroll;
+    background-color: #752696a6;
+    max-height: 50vh;
+    border-radius: 8px;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    border-bottom-right-radius: 8px;
+    border-bottom-left-radius: 8px;
+    scrollbar-width: none;
+}
+.sprite-2iCowe {
+
+    background-image: url(url(/assets/b7432af851a2ba9cf2ea22663916028c.png);
+    background-position: 50%;
+    background-repeat: no-repeat;
+    width: 22px;
+    height: 22px;
+    display: block;
+overflow-x: -10px;
+    
+}   
+.ping-2NgC8E {
+    width: 290px;
+    height: 14px;
+    display: block;
+    margin-right: 4px;
+    margin-left: 0;
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 auto;
+    flex: 0 0 auto;
+    color: var(--text-muted);
+}
