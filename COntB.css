@@ -34,7 +34,7 @@
     background-position: center;
     background-size: 95px;
 }
-element.style {
+.element.style {
     background-color: rgb(218, 12, 255);
     width: 16px;
 }
@@ -45,7 +45,7 @@ element.style {
     padding-right: unset;
     width: 90%;
 }
-element.style {
+.element.style {
     background-color: rgb(222, 71, 240);
     width: 16px;
 }
