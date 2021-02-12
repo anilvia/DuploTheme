@@ -38,3 +38,10 @@ element.style {
     background-color: rgb(218, 12, 255);
     width: 16px;
 }
+.backgroundFlash-24qWLN {
+    -webkit-box-flex: 16;
+    -ms-flex: 0 0 auto;
+    flex: 66 41 auto;
+    padding-right: unset;
+    width: 90%;
+}
