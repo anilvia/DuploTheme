@@ -45,3 +45,7 @@ element.style {
     padding-right: unset;
     width: 90%;
 }
+element.style {
+    background-color: rgb(222, 71, 240);
+    width: 16px;
+}
