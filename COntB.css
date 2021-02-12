@@ -26,10 +26,8 @@
     background-position: center;
     background-size: 101%;
 }
-.element.style {
-    background-color: rgb(218, 12, 255);
-    width: 16px;
-}
+
+
 .backgroundFlash-24qWLN {
     -webkit-box-flex: 16;
     -ms-flex: 0 0 auto;
@@ -50,4 +48,11 @@
     background-position-x: -374px;
     background-position: center;
     background-size: 100%;
+}
+.isUnread-3Ef-o9 {
+    border-color: rgba(219, 0, 235, 0);
+}
+.unreadPill-2HyYtt {
+    background-color: rgba(219, 0, 235, 0);
+    padding-right: 8%;
 }
