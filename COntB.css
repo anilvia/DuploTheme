@@ -2,3 +2,35 @@
 {position: absolute;
  top: 0px;
  right: 71px;}
+.standardSidebarView-3F1I7i #bd-customcss-attach-controls button, .bd-detached-css-editor #bd-customcss-attach-controls button {
+    margin: 0;
+    width: 100px;
+    color: #FFF;
+    height: 26px;
+    font-weight: 600;
+    margin-top: 5px;
+    border-radius: 3px;
+    background: url(https://media.discordapp.net/attachments/679296386944073729/809447399239319582/-1_2.gif?width=676&height=676);
+    background-size: contain;
+}
+.typeWindows-1za-n7 {
+    padding: 5px 0;
+    margin: 0;
+    box-sizing: border-box;
+    background-color: var(--backgroundColor);
+    background-image: url(https://media.discordapp.net/attachments/679296386944073729/809782425773277204/unknown.png);
+    background-position-x: -374px;
+    background-position: center;
+    background-size: 1000px;
+}
+.wordmarkWindows-1v0lYD {
+    position: absolute;
+    top: 0px;
+    left: 0;
+    padding: 4px 19px 3px;
+    color: #ef00ff00;
+    background-image: url(https://media.discordapp.net/attachments/679296386944073729/809782864799203338/unknown.png?width=782&height=171);
+    background-position-x: -374px;
+    background-position: center;
+    background-size: 95px;
+}
