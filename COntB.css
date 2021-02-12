@@ -34,3 +34,7 @@
     background-position: center;
     background-size: 95px;
 }
+element.style {
+    background-color: rgb(218, 12, 255);
+    width: 16px;
+}
