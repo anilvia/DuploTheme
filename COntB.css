@@ -73,3 +73,10 @@ div.sidebar-2K8pFh { width: 4%; transition: width 0.7s; }
 div.sidebar-2K8pFh:hover { width: 240px; }
 div.membersWrap-2h-GB4 { width: 0px; transition: width 0.7s; }
 div.membersWrap-2h-GB4:hover { width: 240px; }
+
+.membersWrap-2h-GB4 .members-1998pB {
+    width: 220px;
+    height: calc(100% - 69px);
+    padding-bottom: 40px;
+    padding: 0px 60px 10px;
+}
