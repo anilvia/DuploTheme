@@ -64,7 +64,10 @@
     transition: .3s;
     .membersWrap-2h-GB4: hover;
 }
-div.sidebar-2K8pFh { width: 3.5%; transition: width 2.7s; }
+.platform-win .sidebar-2K8pFh {
+    width: 3.5%;
+    transition: 1s;
+}
 
 div.sidebar-2K8pFh:hover { width: 240px; }
 div.membersWrap-2h-GB4:hover { width: 240px; }
