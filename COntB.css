@@ -64,13 +64,9 @@
     transition: .3s;
     .membersWrap-2h-GB4: hover;
 }
-.sidebar-2K8pFh.da-sidebar:hover {
-    width: 220px;
-}
-div.sidebar-2K8pFh { width: 4%; transition: width 0.7s; }
+div.sidebar-2K8pFh { width: 3.5%; transition: width 2.7s; }
 
 div.sidebar-2K8pFh:hover { width: 240px; }
-div.membersWrap-2h-GB4 { width: 0px; transition: width 0.7s; }
 div.membersWrap-2h-GB4:hover { width: 240px; }
 
 .membersWrap-2h-GB4 .members-1998pB {
