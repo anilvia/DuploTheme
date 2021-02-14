@@ -36,17 +36,6 @@
 --HSL-server-icon-size: 42px;
 --HSL-server-spacing: 6px;
  }
-.membersWrap-2h-GB4 {
-	width: 10px;
-	min-width: unset;
-	transition: 1s;
-}
-
-.membersWrap-2h-GB4:hover {
-	width: 240px;
-}
-
-.membersWrap-2h-GB4 .members-1998pB {width: 300px;height: calc(100% - 69px);padding-bottom: 40px;padding: 0px 100px 10px;}
 .buttonContainer-DHceWr
  {
     position: absolute;
