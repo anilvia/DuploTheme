@@ -85,14 +85,14 @@
 
 .membersWrap-2h-GB4 {
     -webkit-transform: translateX(220px);
-    transform: translateX(210px);
+    transform: translateX(200px);
     position: absolute;
 }
 
 
 
 .members-1998pB {
-    width: 265px;
+    width: 260px;
     overflow: hidden;
     border-radius: .5em 0 0 .5em;
     transition: all 500ms;
@@ -107,7 +107,7 @@
     transition: all 500ms;
     background-color: var(--darkgrey5)!important;
 }
+.membersWrap-2h-GB4  {height: calc(100% - 70px);}
 
 
-
-.chatContent-a9vAAp { margin-right: 60px;}
+.chatContent-a9vAAp { margin-right: -12px;}
