@@ -108,6 +108,15 @@
     background-color: var(--darkgrey5)!important;
 }
 .membersWrap-2h-GB4  {height: calc(100% - 70px);}
-
-
+.membersGroup-v9BXpm {
+    position: relative;
+    z-index: 2;
+    padding: 19px 90px 5px 16px;
+    text-align: center;
+    letter-spacing: 1px;
+    color: #e6e6e6;
+    border-bottom-width: 2px;
+    border-style: solid;
+    border-image: linear-gradient(to right,transparent,var(--themeColor1),var(--themeColor2),transparent) 1;
+}
 .chatContent-a9vAAp { margin-right: -12px;}
