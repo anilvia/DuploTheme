@@ -120,3 +120,17 @@
     border-image: linear-gradient(to right,transparent,var(--themeColor1),var(--themeColor2),transparent) 1;
 }
 .chatContent-a9vAAp { margin-right: -12px;}
+.badge-1JXQev {
+    position: absolute;
+    bottom: -4px;
+    right: -4px;
+    width: 14px;
+    height: 14px;
+    padding: 2px;
+    background-color: #292b2f00;
+    color: #fff0;
+    border-radius: 50%;
+    background: url(https://cdn.discordapp.com/attachments/679296386944073729/807270253565575188/-1_2.gif);
+    background-position: center;
+    background-size: 100%;
+}
