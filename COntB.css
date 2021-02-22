@@ -134,3 +134,18 @@
     background-position: center;
     background-size: 100%;
 }
+.icon-3Oovq9 {
+    position: relative;
+    -ms-flex-negative: 0;
+    flex-shrink: 0;
+    text-transform: uppercase;
+    text-align: center;
+    line-height: 34px;
+    width: 32px;
+    height: 32px;
+    border-radius: 3px;
+    font-weight: 700;
+    color: #fff;
+    background: url(https://cdn.discordapp.com/attachments/535177813708505108/813314938495303710/oSumAtrIX.gif);
+    background-size: 91%;
+}
