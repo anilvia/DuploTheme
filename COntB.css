@@ -33,6 +33,7 @@
     -ms-flex: 0 0 auto;
     flex: 66 41 auto;
     padding-right: unset;
+
     width: 90%;
 }
 .element.style {
@@ -148,4 +149,15 @@
     color: #fff;
     background: url(https://cdn.discordapp.com/attachments/535177813708505108/813314938495303710/oSumAtrIX.gif);
     background-size: 91%;
+}
+.theme-dark .art-1qgogX {
+    background-image: url(https://media.discordapp.net/attachments/376238948487266304/813301332856668180/Nya_arigato_You_can_eat_the_girlV2.gif);
+}
+.art-1qgogX {
+    display: inline-block;
+    margin: -60px auto 0;
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 180px;
+    height: 100px;
 }
