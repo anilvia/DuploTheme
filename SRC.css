@@ -1,0 +1,61 @@
+.members-1998pB {
+    width: 0px;
+    padding: 0 0 20px;
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 auto;
+    flex: 0 0 auto;
+    height: auto;
+}
+.scroller-2LSbBU {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    width: 0px;
+}
+.container-3w7J-x {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    -webkit-box-align: stretch;
+    -ms-flex-align: stretch;
+    align-items: stretch;
+    -webkit-box-pack: start;
+    -ms-flex-pack: start;
+    justify-content: flex-start;
+    -webkit-box-flex: 1;
+    -ms-flex: 1 1 auto;
+    flex: 1 1 auto;
+    min-height: 0;
+    position: relative;
+    background-color: var(--background-secondary);
+    width: 0px;
+}
+.channelNotice-1-XFjC.invite-OjTXrW {
+    background: url(dvg) no-repeat center 20px;
+    width: 0px;
+}
+.message-3SOT5P {
+    font-size: 14px;
+    line-height: 18px;
+    color: #dcddde00;
+    margin-top: 8px;
+}
+.lookFilled-1Gx00P.colorBrand-3pXr91 {
+    color: #fff0;
+    background-color: #7289da00;
+}
+.sidebar-2K8pFh {
+    flex-direction: column;
+    min-height: 0;
+    width: 240px;
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 auto;
+    flex: 0 0 auto;
+    background: #36393f;
+}
