@@ -3,10 +3,12 @@
 @import url("https://anilvia.github.io/DuploTheme/IND.css");
 @import url("https://anilvia.github.io/DuploTheme/UsTAG.css");
 @import url('https://anilvia.github.io/DuploTheme/Fonts.css');
-@import url('https://anilvia.github.io/DuploTheme/HSW.css');
+@import url("https://discordstyles.github.io/HorizontalServerList/base.css");
 @import url('https://anilvia.github.io/DuploTheme/Radial.css');
 @import url('https://anilvia.github.io/DuploTheme/COntB.css');
 :root {
+  --HSL-server-icon-size: 40px;  /* Size of the server icons | DEFAULT: 40px */
+  --HSL-server-spacing: 10px;  /* Spacing between each server icon | DEFAULT: 10px */
 --scrollbar-thin-thumb: #00000000;
     --scrollbar-thin-track: #b613de1c;
     --scrollbar-auto-track: #00000000;
@@ -31,7 +33,7 @@
 --rs-streaming-color: #643da7;
 --rs-offline-color: #636b75;
 --rs-invisible-color: #e100ff;
-
+--background-tertiary: #f0474700;
 --HSL-server-icon-size: 42px;
 --HSL-server-spacing: 6px;
  }
@@ -62,4 +64,10 @@
     background-color: #202225a6;
     background: url(https://media.discordapp.net/attachments/376238948487266304/813301332856668180/Nya_arigato_You_can_eat_the_girlV2.gif?width=662&height=373);
     background-size: 44%;
+}
+.childWrapper-anI2G9 {
+    -webkit-transition: background-color .15s ease-out,color .15s ease-out;
+    transition: background-color .15s ease-out,color .15s ease-out;
+    background-color: var(--background-primary);
+    color: #f0f8ff00;
 }
