@@ -75,3 +75,20 @@
     color: #fff0;
     background-color: #7289da;
 }
+.theme-dark .layers-3iHuyZ>.layer-3QrUeG:nth-child(2), .perksModal-fSYqOq {
+    background-color: rgba(0, 0, 0, 0.27)!important;
+    backdrop-filter: blur(9px);
+}
+.contentRegionScroller-26nc1e, .contentRegion-3nDuYy, .standardSidebarView-3F1I7i, .sidebarRegionScroller-3MXcoP {
+    background: transparent;
+}
+.contentRegionScroller-26nc1e, .contentRegion-3nDuYy, .standardSidebarView-3F1I7i, .sidebarRegionScroller-3MXcoP {
+    background: transparent;
+}
+.layers-3iHuyZ>.layer-3QrUeG:first-child {
+    transform: scale(1) !important;
+    opacity: 1 !important;
+}
+.layer-3QrUeG.baseLayer-35bLyl {
+    background-color: transparent;
+}
