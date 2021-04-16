@@ -141,6 +141,7 @@
     margin-bottom: 15px;
     background: url(https://i.pinimg.com/originals/4e/30/c9/4e30c95dc885f880a2c2797fdee0e042.gif)!important;
     background-size: cover!important;
+box-shadow: 0 0 10px rgba(214, 74, 255, 0.5);
 }
 ::-webkit-scrollbar {
  display: none;
