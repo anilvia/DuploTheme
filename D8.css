@@ -103,3 +103,8 @@
     background: url(https://steamuserimages-a.akamaihd.net/ugc/251465395761449818/E5F1A289727F8FF4C41479F1ABF067EB2CACB831/)!important;
     background-size: cover!important;
 }
+#app-mount .wrapper-3t9DeA[style*="width: 80px;"] {
+    position: relative;
+    margin-right: 0 !important;
+    box-shadow: 0 0 10px rgb(0, 0, 0);
+}
