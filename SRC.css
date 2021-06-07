@@ -220,3 +220,13 @@ img[alt] {
     -ms-flex-pack: start;
     justify-content: flex-start;
 }
+.cozy-3raOZG .contents-2mQqc9 {
+    -webkit-user-select: text;
+    -moz-user-select: text;
+    -ms-user-select: text;
+    user-select: text;
+    margin-left: -72px;
+    padding-left: 72px;
+    background: #0000004f;
+    border-radius: 10px;
+}
