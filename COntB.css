@@ -45,7 +45,7 @@
     margin: 0;
     box-sizing: border-box;
     background-color: var(--backgroundColor);
-    background-image: url(https://media.discordapp.net/attachments/679296386944073729/809782425773277204/unknown.png);
+   /* background-image: url(https://media.discordapp.net/attachments/679296386944073729/809782425773277204/unknown.png);*/
     background-position-x: -374px;
     background-position: center;
     background-size: 100%;
