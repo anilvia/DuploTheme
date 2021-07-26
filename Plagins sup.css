@@ -1,9 +1,8 @@
-/*PlatformIN*/
 #app-mount .friendsOnline-2JkivW {
     position: absolute;
     transform: translate(-50%, 50%);
-    top: 15px!important;
-    left: -28px!important;
+    top: 17px!important;
+    left: 0px!important;
     width: calc(var(--server-size) + var(--server-spacing))!important;
     display: flex;
     justify-content: center;
