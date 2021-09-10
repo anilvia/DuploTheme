@@ -153,7 +153,7 @@
   background-image: url(https://i.imgur.com/RT6EPy2.png);
 }
 
-.avatar-1BDn8e[src*="102543272018194432"]:hover + h2::after {
+.avatar-1BDn8e[src*="594594838297575424"]:hover + h2::after {
   background-image: url(https://www.icegif.com/wp-content/uploads/sad-anime-icegif.gif);
   color: var(--main-color);
   --main-color: white;
