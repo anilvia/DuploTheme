@@ -16,9 +16,9 @@
 .avatar-1BDn8e[src*="751726950875136031"] + h2::after,
 .avatar-1BDn8e[src*="670550004091322368"] + h2::after,
 .avatar-1BDn8e[src*="250353310698176522"] + h2::after,
-.avatar-1BDn8e[src*="278516985640517632"] + h2::after,
+.avatar-1BDn8e[src*="594594838297575424"] + h2::after,
 .avatar-1BDn8e[src*="371581535801049089"] + h2::after,
-.avatar-1BDn8e[src*="102543272018194432"] + h2::after{
+.avatar-1BDn8e[src*="437524004618764288"] + h2::after{
   content: '';
   color: transparent;
   height: 15px;
@@ -50,9 +50,9 @@
 .avatar-1BDn8e[src*="751726950875136031"]:hover + h2::after,
 .avatar-1BDn8e[src*="670550004091322368"]:hover + h2::after,
 .avatar-1BDn8e[src*="250353310698176522"]:hover + h2::after,
-.avatar-1BDn8e[src*="278516985640517632"]:hover + h2::after,
+.avatar-1BDn8e[src*="594594838297575424"]:hover + h2::after,
 .avatar-1BDn8e[src*="371581535801049089"]:hover + h2::after,
-.avatar-1BDn8e[src*="102543272018194432"]:hover + h2::after{
+.avatar-1BDn8e[src*="437524004618764288"]:hover + h2::after{
   color: white;
   transform: none;
   background-size: cover;
@@ -103,13 +103,13 @@
 }
 
   /* ellie */
-.contents-2mQqc9 .avatar-1BDn8e[src*="213220786805145600"] {
+.contents-2mQqc9 .avatar-1BDn8e[src*="594594838297575424"] {
   animation: eve-glow 1s ease-in-out infinite alternate;
   filter: drop-shadow(0 0 5px #b71cff);
   transition: filter 200ms ease-in-out;
 }
 
-.contents-2mQqc9 .avatar-1BDn8e[src*="213220786805145600"]:hover {
+.contents-2mQqc9 .avatar-1BDn8e[src*="594594838297575424"]:hover {
   animation-play-state: paused;
 }
 
@@ -166,18 +166,17 @@
 }
 
 .avatar-1BDn8e[src*="437524004618764288"]:hover + h2::after {
-  background-image: url();
-  color: var(--main-color);
-  --main-color: #007FFF;
+ background: var(--main-color);
+  --main-color: #5431af;
   content: "Я не плачу,просто в глаз что-то попало";
 }
 
-.avatar-1BDn8e[src*="250353310698176522"] + h2::after {
+.avatar-1BDn8e[src*=""] + h2::after {
   background-image: url(https://monstrousdev.github.io/themes/assets/svgs/moon.svg);
   transform: scale(.75);
 }
 
-.avatar-1BDn8e[src*="250353310698176522"]:hover + h2::after {
+.avatar-1BDn8e[src*=""]:hover + h2::after {
   background: var(--main-color);
   --main-color: #fbc86f;
   content: "Enchanted Symphony";
