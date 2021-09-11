@@ -1,21 +1,21 @@
 /* ======= SPECIAL TAGS ========= */
 /* badges */
-.avatar-1BDn8e[src*="166365757561634816"] + h2::after,
-.avatar-1BDn8e[src*="402272736665272320"] + h2::after,
-.avatar-1BDn8e[src*="244392852950482944"] + h2::after,
-.avatar-1BDn8e[src*="254362351170617345"] + h2::after,
-.avatar-1BDn8e[src*="213220786805145600"] + h2::after,
-.avatar-1BDn8e[src*="231827402102276096"] + h2::after,
-.avatar-1BDn8e[src*="236006926406778881"] + h2::after,
-.avatar-1BDn8e[src*="282138006738042880"] + h2::after,
-.avatar-1BDn8e[src*="140012296910012416"] + h2::after,
-.avatar-1BDn8e[src*="174868361040232448"] + h2::after,
-.avatar-1BDn8e[src*="234148582523928576"] + h2::after,
-.avatar-1BDn8e[src*="664933588835368990"] + h2::after,
-.avatar-1BDn8e[src*="454072114492866560"] + h2::after,
-.avatar-1BDn8e[src*="751726950875136031"] + h2::after,
-.avatar-1BDn8e[src*="670550004091322368"] + h2::after,
-.avatar-1BDn8e[src*="250353310698176522"] + h2::after,
+.avatar-1BDn8e[src*=""] + h2::after,
+.avatar-1BDn8e[src*=""] + h2::after,
+.avatar-1BDn8e[src*=""] + h2::after,
+.avatar-1BDn8e[src*=""] + h2::after,
+.avatar-1BDn8e[src*=""] + h2::after,
+.avatar-1BDn8e[src*=""] + h2::after,
+.avatar-1BDn8e[src*=""] + h2::after,
+.avatar-1BDn8e[src*=""] + h2::after,
+.avatar-1BDn8e[src*=""] + h2::after,
+.avatar-1BDn8e[src*=""] + h2::after,
+.avatar-1BDn8e[src*=""] + h2::after,
+.avatar-1BDn8e[src*=""] + h2::after,
+.avatar-1BDn8e[src*=""] + h2::after,
+.avatar-1BDn8e[src*=""] + h2::after,
+.avatar-1BDn8e[src*=""] + h2::after,
+.avatar-1BDn8e[src*=""] + h2::after,
 .avatar-1BDn8e[src*="594594838297575424"] + h2::after,
 .avatar-1BDn8e[src*="371581535801049089"] + h2::after,
 .avatar-1BDn8e[src*="437524004618764288"] + h2::after{
@@ -34,22 +34,22 @@
 
 
 /* on hover */
-.avatar-1BDn8e[src*="166365757561634816"]:hover + h2::after,
-.avatar-1BDn8e[src*="402272736665272320"]:hover + h2::after,
-.avatar-1BDn8e[src*="244392852950482944"]:hover + h2::after,
-.avatar-1BDn8e[src*="254362351170617345"]:hover + h2::after,
-.avatar-1BDn8e[src*="213220786805145600"]:hover + h2::after,
-.avatar-1BDn8e[src*="231827402102276096"]:hover + h2::after,
-.avatar-1BDn8e[src*="236006926406778881"]:hover + h2::after,
-.avatar-1BDn8e[src*="282138006738042880"]:hover + h2::after,
-.avatar-1BDn8e[src*="140012296910012416"]:hover + h2::after,
-.avatar-1BDn8e[src*="174868361040232448"]:hover + h2::after,
-.avatar-1BDn8e[src*="234148582523928576"]:hover + h2::after,
-.avatar-1BDn8e[src*="664933588835368990"]:hover + h2::after,
-.avatar-1BDn8e[src*="454072114492866560"]:hover + h2::after,
-.avatar-1BDn8e[src*="751726950875136031"]:hover + h2::after,
-.avatar-1BDn8e[src*="670550004091322368"]:hover + h2::after,
-.avatar-1BDn8e[src*="250353310698176522"]:hover + h2::after,
+.avatar-1BDn8e[src*=""]:hover + h2::after,
+.avatar-1BDn8e[src*=""]:hover + h2::after,
+.avatar-1BDn8e[src*=""]:hover + h2::after,
+.avatar-1BDn8e[src*=""]:hover + h2::after,
+.avatar-1BDn8e[src*=""]:hover + h2::after,
+.avatar-1BDn8e[src*=""]:hover + h2::after,
+.avatar-1BDn8e[src*=""]:hover + h2::after,
+.avatar-1BDn8e[src*=""]:hover + h2::after,
+.avatar-1BDn8e[src*=""]:hover + h2::after,
+.avatar-1BDn8e[src*=""]:hover + h2::after,
+.avatar-1BDn8e[src*=""]:hover + h2::after,
+.avatar-1BDn8e[src*=""]:hover + h2::after,
+.avatar-1BDn8e[src*=""]:hover + h2::after,
+.avatar-1BDn8e[src*=""]:hover + h2::after,
+.avatar-1BDn8e[src*=""]:hover + h2::after,
+.avatar-1BDn8e[src*=""]:hover + h2::after,
 .avatar-1BDn8e[src*="594594838297575424"]:hover + h2::after,
 .avatar-1BDn8e[src*="371581535801049089"]:hover + h2::after,
 .avatar-1BDn8e[src*="437524004618764288"]:hover + h2::after{
@@ -126,7 +126,7 @@
   background-image: url(https://media.discordapp.net/attachments/688332382062903315/885905597940252732/lasd.png);
   transition: filter .2s ease-in-out;
   transform: scale(1.1);
-  height: 15px !important;
+  height: 25px !important;
   width: 15px !important;
 }
 
@@ -154,11 +154,11 @@
 }
 
 .avatar-1BDn8e[src*="594594838297575424"]:hover + h2::after {
-  background-image: url(https://www.icegif.com/wp-content/uploads/sad-anime-icegif.gif);
+  background-image: url(https://i.gifer.com/GXiw.gif);
   color: var(--main-color);
   --main-color: white;
   text-shadow: none;
-  content: "가버렸어.ggt";
+  content: "⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀";
 }
 
 .avatar-1BDn8e[src*="437524004618764288"] + h2::after {
