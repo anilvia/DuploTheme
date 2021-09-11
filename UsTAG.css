@@ -85,8 +85,8 @@
 
 
   /* on hover */
-.avatar-1BDn8e[src*="594594838297575424"]:hover + h2::after {
-  content: 'Главный администратор';
+.avatar-1BDn8e[src*=""]:hover + h2::after {
+  content: '';
   --main-color: #a900ff;
 }
 
