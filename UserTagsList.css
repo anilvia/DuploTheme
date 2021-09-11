@@ -179,7 +179,7 @@
 .avatar-1BDn8e[src*="576448707331883049"]:hover + h2::after {
   background: var(--main-color);
   --main-color: #000000;
-  color: #ff0000
+  color: #ff0000;
   content: "течис рампага";
 }
 
