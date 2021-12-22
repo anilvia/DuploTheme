@@ -40,13 +40,9 @@
     background-color: #a743b9b8;
 }
 .container-1r6BKw.themed-ANHk51 {
-    background: var(--background-primary);
-    border-left: 7px solid #D645D2;
-}
-.container-1r6BKw.themed-ANHk51 {
     border-left: 7px solid #D645D2;
     background: url(https://cdn.discordapp.com/attachments/827953319724449843/923165186964217927/IndelibleDigitalFly-size_restricted.gif)!important;
-}
+    background-size: 60%;
 .popoutBanner-19WKGg {
     background: url(https://cdn.discordapp.com/attachments/827953319724449843/923165186964217927/IndelibleDigitalFly-size_restricted.gif);
     width: 300px;
