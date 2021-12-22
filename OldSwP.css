@@ -7,7 +7,14 @@
 .membersWrap-2h-GB4:hover {
 	width: 240px;
 }
-
+.container-2wlB3z {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    background: #2f313600;
+    height: 100%;
+}
 .membersWrap-2h-GB4 .members-1998pB {width: 300px;height: calc(100% - 69px);padding-bottom: 40px;padding: 0px 100px 10px;}
 \\.membersWrap-2h-GB4 .members-1998pB {width: 300px;height: calc(100% - 69px);padding-bottom: 40px;padding: 0px 100px 10px;}\\
 \\div.membersWrap-2h-GB4:hover { width: 240px; }\\
