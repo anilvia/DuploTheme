@@ -1,0 +1,41 @@
+.layout-2DM8Md{background: transparent;border-radius: 5px;transition:0.5s!important;}
+.layout-2DM8Md:hover{border-radius: 5px;transition:1s;background-color:#636363d1!important;}
+.typeWindows-1za-n7 {
+    padding: 5px 0;
+    margin: 0;
+    box-sizing: border-box;
+    background-color: var(--backgroundColor);
+    background-image: url(https://media.discordapp.net/attachments/679296386944073729/809782425773277204/unknown.png)!important; 
+    background-position-x: -374px;
+    background-position: center;
+    background-size: 100%;
+}
+.wordmarkWindows-1v0lYD {
+    position: absolute;
+    top: -1px;
+    left: 0;
+    padding: 7px 19px 3px;
+    color: #ef00ff00;
+    background-image: url(https://);
+    background-position-x: -374px;
+    background-position: center;
+    background-size: 101%;
+}
+/* New Year */
+.scrollableContainer-2NUZem {
+    overflow-x: hidden;
+    overflow-y: scroll;
+    background-color: #a743b9b8;
+    background: url(https://cdn.discordapp.com/attachments/827953319724449843/923123701703143454/2eSd.gif);
+    max-height: 50vh;
+    border-radius: 8px;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    border-bottom-right-radius: 8px;
+    border-bottom-left-radius: 8px;
+    scrollbar-width: none;
+}
+.channelTextArea-rNsIhG, .channelTextArea-2VhZ6z {
+    margin-left: 25px;
+    background-color: #a743b9b8;
+}
