@@ -25,7 +25,6 @@
 .scrollableContainer-2NUZem {
     overflow-x: hidden;
     overflow-y: scroll;
-    background-color: #a743b9b8;
     background: url(https://cdn.discordapp.com/attachments/827953319724449843/923165186964217927/IndelibleDigitalFly-size_restricted.gif);
     max-height: 50vh;
     border-radius: 8px;
@@ -42,4 +41,8 @@
     width: 300px;
     height: 60px;
     background-size: 53%;
+}
+.channelTextArea-rNsIhG {
+    margin-bottom: 24px;
+    background-color: #a743b9b8;
 }
