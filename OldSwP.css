@@ -7,3 +7,43 @@
     background: #2f313600!important;
     height: 100%;
 }
+.avatar-1BDn8e.clickable-1bVtEA[src*="594594838297575424"]{
+animation: QRS 5s infinite;
+    box-shadow: 0px 0px 5px 2px rgba(1, 255, 22, 0.199);
+    transition: 1s ease;
+}
+.avatar-1BDn8e:hover[src*="594594838297575424"]{transition: 1s ease;border-radius: 0%;}
+@keyframes QRS {
+    0%     {box-shadow: 0px 0px 5px 2px  rgb(255 0 248 / 20%);}
+    50%     {box-shadow: 0px 0px 5px 2px  rgb(255 0 248 / 100%);}
+    100%     {box-shadow: 0px 0px 5px 2px  rgb(255 0 248 / 20%);}
+    }
+.mainContent-u_9PKf[data-list-item-id="channels___535177625505759233"]{
+background: url(https://cdn.discordapp.com/attachments/827953319724449843/923165186964217927/IndelibleDigitalFly-size_restricted.gif);
+background-size: cover;
+transition: 1s;
+}
+.mainContent-u_9PKf[data-list-item-id="channels___535177625505759233"]:hover{
+background: url(https://cdn.discordapp.com/attachments/827953319724449843/923165186964217927/IndelibleDigitalFly-size_restricted.gif);
+background-size: cover;
+transition: 1s;
+}
+.avatar-1BDn8e.clickable-1bVtEA[src*="621282819330670592"]{
+animation: QRS_2 2s infinite;
+    transition: 1s ease;
+}
+.avatar-1BDn8e:hover[src*="621282819330670592"]{transition: 1s ease;border-radius: 30%;}
+@keyframes QRS_2 {
+    0%      {box-shadow: 0px 0px 0px 4px  rgba(0, 0, 0, 0.2);}
+    50%     {box-shadow: 0px 0px 0px 4px  rgba(0, 0, 0, 1);}
+    100%    {box-shadow: 0px 0px 0px 4px  rgba(0, 0, 0, 0.2);}
+    }
+    .headerText-3Uvj1Y[id*="924595624459006013"]{border: 2px solid;border-image: linear-gradient(
+      rgb(0, 17, 255), 
+      rgb(255, 0, 242)
+    ) 10;border-radius: 40%;
+    padding-left: 4px;padding-right: 4px;
+}
+.avatar-1BDn8e[src*="675034502619201556"]{width: 0px;}
+.groupStart-23k01U[data-author-id*="675034502619201556"],.cozy-3raOZG.wrapper-2a6GCs[data-author-id="675034502619201556"]
+{display: none;}
