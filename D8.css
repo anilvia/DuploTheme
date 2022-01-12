@@ -40,13 +40,13 @@
 --HSL-server-icon-size: 42px;
 --HSL-server-spacing: 6px;
  }
-.buttonContainer-DHceWr
+.buttonContainer-1502pf
  {
     position: absolute;
     top: 0px;
     right: 71px;
 }
-.searchBar-3dMhjb {
+.searchBar-zdmu7v {
     -webkit-box-sizing: border-box;
     box-sizing: border-box;
     display: -webkit-box;
@@ -68,13 +68,13 @@
     background: url(https://media.discordapp.net/attachments/376238948487266304/813301332856668180/Nya_arigato_You_can_eat_the_girlV2.gif?width=662&height=373);
     background-size: 44%;
 }
-.childWrapper-anI2G9 {
+.childWrapper-1j_1ub {
     -webkit-transition: background-color .15s ease-out,color .15s ease-out;
     transition: background-color .15s ease-out,color .15s ease-out;
     background-color: var(--background-primary);
     color: #f0f8ff00;
 }
-.wrapper-1BJsBx.selected-bZ3Lue .childWrapper-anI2G9, .wrapper-1BJsBx:hover .childWrapper-anI2G9 {
+.wrapper-3kah-n.selected-1Drb7Z .childWrapper-1j_1ub, .wrapper-3kah-n:hover .childWrapper-1j_1ub {
     color: #fff0;
     background-color: #7289da;
 }
@@ -82,17 +82,17 @@
     background-color: rgba(0, 0, 0, 0.27)!important;
     backdrop-filter: blur(9px);
 }
-.contentRegionScroller-26nc1e, .contentRegion-3nDuYy, .standardSidebarView-3F1I7i, .sidebarRegionScroller-3MXcoP {
+.contentRegionScroller-2_GT_N, .contentRegion-3HkfJJ, .standardSidebarView-E9Pc3j, .sidebarRegionScroller-FXiQOh {
     background: transparent;
 }
-.contentRegionScroller-26nc1e, .contentRegion-3nDuYy, .standardSidebarView-3F1I7i, .sidebarRegionScroller-3MXcoP {
+.contentRegionScroller-2_GT_N, .contentRegion-3HkfJJ, .standardSidebarView-E9Pc3j, .sidebarRegionScroller-FXiQOh {
     background: transparent;
 }
-.layers-3iHuyZ>.layer-3QrUeG:first-child {
+.layers-OrUESM>.layer-86YKbF:first-child {
     transform: scale(1) !important;
     opacity: 1 !important;
 }
-.layer-3QrUeG.baseLayer-35bLyl {
+.layer-86YKbF.baseLayer-W6S8cY {
     background-color: transparent;
 }
 .background-L8lGH6 {
