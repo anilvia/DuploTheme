@@ -78,7 +78,7 @@
 
 /* My friends and my borders/glow */
   /* mine */
-.contents-2mQqc9 .avatar-2e8lTP[src*="594594838297575424"] + h2::before{
+.contents-2MsGLg .avatar-2e8lTP[src*="594594838297575424"] + h2::before{
   content: '';
   position: absolute;
   height: 44px;
@@ -93,23 +93,23 @@
   z-index: -1;
 }
 
-.contents-2mQqc9 .avatar-2e8lTP[src*="594594838297575424"]:hover + h2::before{
+.contents-2MsGLg .avatar-2e8lTP[src*="594594838297575424"]:hover + h2::before{
   border-radius: var(--roundness, var(--user-roundness, 50px)) !important;
 }
 
-.contents-2mQqc9 .avatar-2e8lTP[src*="594594838297575424"] + h2::before {
+.contents-2MsGLg .avatar-2e8lTP[src*="594594838297575424"] + h2::before {
   background-image: url(https://i.gifer.com/fyD3.gif);
   box-shadow: 0 0 5px rgba(246, 255, 192, 0.658);
 }
 
   /* ellie */
-.contents-2mQqc9 .avatar-2e8lTP[src*="594594838297575424"] {
+.contents-2MsGLg .avatar-2e8lTP[src*="594594838297575424"] {
   animation: eve-glow 1s ease-in-out infinite alternate;
   filter: drop-shadow(0 0 5px #b71cff);
   transition: filter 200ms ease-in-out;
 }
 
-.contents-2mQqc9 .avatar-2e8lTP[src*="594594838297575424"]:hover {
+.contents-2MsGLg .avatar-2e8lTP[src*="594594838297575424"]:hover {
   animation-play-state: paused;
 }
 
