@@ -17,15 +17,15 @@
   cy: -8 !important;
   cx: 4 !important;
 }
-#app-mount .wrapper-1VLyxH .mask-1l8v16 > rect[x="22"] {
+#app-mount .wrapper-1VLyxH .mask-1FEkla > rect[x="22"] {
   x: 0;
   y: 0;
 }
-#app-mount .wrapper-3t9DeA .cursorDefault-dsQJ1n rect {
+#app-mount .wrapper-3t9DeA .cursorDefault--wfhy5 rect {
   x: -49;
   y: -53;
 }
-#app-mount .wrapper-1VLyxH .pointerEvents-2zdfdO[x="14.5"] {
+#app-mount .wrapper-1VLyxH .pointerEvents-9SZWKj[x="14.5"] {
   fill: rgba(0, 0, 0, 0.5) !important;
   width: 30px;
   height: 30px;
@@ -39,7 +39,7 @@
   rx: calc(var(--rs-avatar-shape) * 2) !important;
   ry: calc(var(--rs-avatar-shape) * 2) !important;
 }
-#app-mount .wrapper-3t9DeA rect {
+#app-mount .wrapper-1VLyxH rect {
   x: 0;
   y: 0;
   width: 100%;
@@ -132,11 +132,11 @@
   transform: translate(-50%, -50%);
   position: relative;
 }
-#app-mount .message-1PNnaP .mask-1l8v16 img {
+#app-mount .message-1PNnaP .mask-1FEkla img {
   -webkit-clip-path: circle(calc(19px - var(--rs-small-spacing)));
           clip-path: circle(calc(19px - var(--rs-small-spacing)));
 }
-#app-mount .header-QKLPzZ .wrapper-3t9DeA {
+#app-mount .header-QKLPzZ .wrapper-1VLyxH {
   margin-right: 20px !important;
 }
 #app-mount .memberOffline-2lN7gt img {
@@ -171,11 +171,11 @@
   z-index: 1;
 }
 
-#app-mount .wrapper-3t9DeA:before {
+#app-mount .wrapper-1VLyxH:before {
   content: none !important;
 }
 
-.userInfo-2zN2z8,
-.peopleListItem-2nzedh {
+.userInfo-2WpsYG,
+.peopleListItem-u6dGxF {
   overflow: visible;
 }
