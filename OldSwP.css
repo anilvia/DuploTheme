@@ -56,3 +56,11 @@
 .members-3WRCEx, .members-3WRCEx>div {
     background-color: #2f313600;
 }
+.scrollableContainer-15eg7h {
+    overflow-x: hidden;
+    overflow-y: scroll;
+    background-color: #983eab;
+    max-height: 50vh;
+    border-radius: 8px;
+    scrollbar-width: none;
+}
