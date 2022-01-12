@@ -18,7 +18,7 @@
 
 /* Make transparent layers */
 
-#voice-connection, #friends, .friends-header, .friends-table, .guilds-wrapper, .guild-header header, .channels-wrap, .private-channels .search-bar, .private-channels, .guild-channels, .account, .friend-table-add-header, .chat, .content, .title-wrap:not(.search-bar), .messages-wrapper, .messages .divider span, .messages .divider:before, .content, .message-group-blocked, .is-local-bot-message, .channel-members-loading, .channel-members-loading .heading, .channel-members-loading .member, .typing, .container-RYiLUQ, .theme-dark .ui-standard-sidebar-view, .theme-dark .ui-standard-sidebar-view .sidebar-region, .theme-dark .ui-standard-sidebar-view .content-region, .theme-dark .channel-members, .container-2OU7Cz, .theme-dark .chat form, .channels-3g2vYe, .theme-dark .friends-table, .theme-dark .messages-wrapper, .content .flex-spacer, .theme-dark .chat>.content, .theme-dark .chat, .channel-members, .search .search-bar, .container-iksrDt, .container-3lnMWU, .theme-dark .title-qAcLxz, .theme-dark .typing-3eiiL_, .theme-dark .activityFeed-HeiGwL, .theme-dark .headerBar-cxbhPD, .theme-dark .lfg-3xoFkI, .video-3lOWa6, .theme-dark .private-channel-call, .appMount-3VJmYg, .container-2lgZY8, .channels-Ie2l6A, .container-PNkimc, .container-2Thooq, .theme-dark .title-3qD0b-, .theme-dark .typing-2GQL18, .search-bar.search-bar-light, .emojiPicker-3m1S-j .scroller-3vODG7 .emojiItem-109bjA.selected-39BZ4S, .theme-dark .members-1998pB, .activityFeed-28jde9, .card-7JP0BX, .layers, .layer, .links, .chat, .typing, .content, .guild-channels, .private-channels, .guild-header header, .divider-red span, .messages-wrapper, #voice-connection, .layers-20RVFW, .layer-kosS71, .container-2OU7Cz, .typing-3eiiL_, .container-iksrDt, .layers-20RVFW, .aka-2Ba14Z {
+#voice-connection, #friends, .friends-header, .friends-table, .guilds-wrapper, .guild-header header, .channels-wrap, .private-channels .search-bar, .private-channels, .guild-channels, .account, .friend-table-add-header, .chat, .content, .title-wrap:not(.search-bar), .messages-wrapper, .messages .divider span, .messages .divider:before, .content, .message-group-blocked, .is-local-bot-message, .channel-members-loading, .channel-members-loading .heading, .channel-members-loading .member, .typing, .container-RYiLUQ, .theme-dark .ui-standard-sidebar-view, .theme-dark .ui-standard-sidebar-view .sidebar-region, .theme-dark .ui-standard-sidebar-view .content-region, .theme-dark .channel-members, .container-2OU7Cz, .theme-dark .chat form, .channels-3g2vYe, .theme-dark .friends-table, .theme-dark .messages-wrapper, .content .flex-spacer, .theme-dark .chat>.content, .theme-dark .chat, .channel-members, .search .search-bar, .container-iksrDt, .container-3lnMWU, .theme-dark .title-qAcLxz, .theme-dark .typing-3eiiL_, .theme-dark .activityFeed-HeiGwL, .theme-dark .headerBar-cxbhPD, .theme-dark .lfg-3xoFkI, .video-3lOWa6, .theme-dark .private-channel-call, .appMount-3VJmYg, .container-2lgZY8, .channels-Ie2l6A, .container-PNkimc, .container-2Thooq, .theme-dark .title-3qD0b-, .theme-dark .typing-2GQL18, .search-bar.search-bar-light, .emojiPicker-3m1S-j .scroller-3vODG7 .emojiItem-109bjA.selected-39BZ4S, .theme-dark .members-3WRCEx, .activityFeed-28jde9, .card-7JP0BX, .layers, .layer, .links, .chat, .typing, .content, .guild-channels, .private-channels, .guild-header header, .divider-red span, .messages-wrapper, #voice-connection, .layers-20RVFW, .layer-kosS71, .container-2OU7Cz, .typing-3eiiL_, .container-iksrDt, .layers-20RVFW, .aka-2Ba14Z {
 	background: var(--transparent);
 }
 
@@ -1265,17 +1265,17 @@
 
 /* Member's Transition Animation */
 
-.membersWrap-2h-GB4 {
+.membersWrap-3NUR2t {
 	width: 10px;
 	min-width: unset;
 	transition: .3s;
 }
 
-.membersWrap-2h-GB4:hover {
+.membersWrap-3NUR2t:hover {
 	width: 220px;
 }
 
-.membersWrap-2h-GB4 .members-1998pB {
+.membersWrap-3NUR2t .members-3WRCEx {
 	width: 220px;
 	height: calc(100% + 30px);
 	padding-bottom: 40px;
