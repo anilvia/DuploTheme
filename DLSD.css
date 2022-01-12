@@ -1,3 +1,6 @@
-.platform-win .sidebar-1tnWFu {border-radius: 8px 0 0;overflow: hidden; width: 10px; min-width: unset;transition: 1s;}
-.platform-win .sidebar-1tnWFu {width: 45px;transition: 1s;}
-div.sidebar-1tnWFu:hover { width: 240px; }
+.platform-win .sidebar-1tnWFu 
+{border-radius: 8px 0 0;overflow: hidden; width: 10px; min-width: unset;transition: 1s;}
+.platform-win .sidebar-1tnWFu 
+{width: 45px;transition: 1s;}
+div.sidebar-1tnWFu:hover 
+{ width: 240px; }
