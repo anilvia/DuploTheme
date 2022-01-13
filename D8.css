@@ -132,3 +132,11 @@
     background: url(https://cdn.discordapp.com/attachments/827953319724449843/931208385309847572/1476423774_image_560103131455277969390.gif);
 background-size: cover;
 }
+.container-2o3qEW {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    background: #2f313600;
+    height: 100%;
+}
