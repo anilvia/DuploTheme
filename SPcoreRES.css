@@ -15,11 +15,11 @@
     --backgroundName: rgba(0,0,0,.5)
 }
 
-.appMount-3lHmkl,body {
+.appMount-2yBXZl,body {
     background-color: var(--backgroundColor)!important
 }
 
-.bg-h5JY_x {
+.bg-1QIAus {
     background-color: transparent;
     background-position: var(--backgroundPosition);
     background-repeat: var(--backgroundRepeat);
@@ -29,10 +29,10 @@
     filter: blur(var(--backgroundBlur))
 }
 
-.app-2rEoOp,.applicationStore-1pNvnv,.chat-3bRxxu,.container-1D34oG,.container-1r6BKw.themed-ANHk51,.container-3w7J-x,.container-PNkimc,.contentRegion-3nDuYy,.contentRegionScroller-26nc1e,.header-39GIC8,.inviteToolbar-3F-l2g,.layer-3QrUeG,.members-1998pB,.members-1998pB>div,.messages-3amgkR,.notice-2X5hT5,.nowPlayingColumn-2sl4cE,.pageWrapper-1PgVDX,.panels-j1Uci_,.privateChannels-1nO12o,.scroller-1IIF0A,.scroller-1JbKMe,.scroller-2TZvBN,.scroller-2XE8rp,.scroller-305q3I,.scroller-9moviB,.sidebar-2K8pFh,.sidebarRegionScroller-3MXcoP,.standardSidebarView-3F1I7i,.wrapper-1Rf91z,.wrapper-2qzCYF,.wrapper-2qzCYF.minimum-28Z35l,.wrapper-KXM2i0 {
+.app-2CXKsg,.applicationStore-2nk7Lo,.chat-2ZfjoI,.container-2cd8Mz,.container-ZMc96U.themed-Hp1KC_,.container-1NXEtd,.container-PNkimc,.contentRegion-3HkfJJ,.contentRegionScroller-2_GT_N,.header-2EadGG,.inviteToolbar-2k2nqz,.layer-86YKbF,.members-3WRCEx,.members-3WRCEx>div,.messages-3amgkR,.notice-12Koq-,.nowPlayingColumn-1eCBCN,.pageWrapper-2PwDoS,.panels-3wFtMD,.privateChannels-oVe7HL,.scroller-2XLwLg,.scroller-WSmht3,.scroller-2TZvBN,.scroller-1TOeMq,.scroller-3_YDR2,.scroller-29cQFV,.sidebar-1tnWFu,.sidebarRegionScroller-FXiQOh,.standardSidebarView-E9Pc3j,.wrapper-1Rf91z,.wrapper-1gVUIN,.wrapper-1gVUIN.minimum-fXpVNc,.wrapper-KXM2i0 {
     background: 0 0!important
 }
-
+/**/
 .children-19S4PO:after,.content-yTz4x3:before,.form-2fGMdU:before {
     display: none!important
 }
