@@ -7,4 +7,9 @@
     display: flex;
     justify-content: center;
 }
-
+.voiceCounter {
+    color: #b923cc!important;
+    font-weight: bold;
+    margin-left: 5px;
+    z-index: 999;
+}
