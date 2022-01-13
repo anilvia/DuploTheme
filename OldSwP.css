@@ -38,10 +38,10 @@
 }
 .chat-2ZfjoI {background: #181a1f6b;}
 .container-2o3qEW{background: #2f313600;}
-.badge-3RBqXG
+*/.badge-3RBqXG
 {background: url(https://cdn.discordapp.com/attachments/679296386944073729/807270253565575188/-1_2.gif);
     background-size: cover;
-    color: #ff000000;
+    color: #ff000000;/*
 }
 .container-1NXEtd {
     display: -webkit-box;
