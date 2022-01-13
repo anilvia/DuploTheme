@@ -145,7 +145,7 @@ background-size: cover;
     left: 37px;
     margin-top: 100px;
     margin-bottom: 15px;
-     box-shadow: 0 0 10px rgb(214 74 255 / 50%);
+     box-shadow: 0 0 10px 5px rgb(214 74 255 / 50%);
 background: url(https://i.pinimg.com/originals/4e/30/c9/4e30c95….gif)!important;
     background-size: cover!important;
 }
