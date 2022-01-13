@@ -122,3 +122,13 @@
 }
 .layout-1qmrhw{background: transparent;border-radius: 5px;transition:0.5s!important;}
 .layout-1qmrhw:hover{border-radius: 5px;transition:1s;background-color:#636363d1!important;}
+.root-1Emen5 {
+    background-color: rgba(0,0,0,.6);
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background: url(https://cdn.discordapp.com/attachments/827953319724449843/931208385309847572/1476423774_image_560103131455277969390.gif);
+background-size: cover;
+}
