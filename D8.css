@@ -110,8 +110,25 @@
 #app-mount .wrapper-1VLyxH[style*="width: 80px;"] {
     position: relative;
     margin-right: 0 !important;
-    box-shadow: 0px 0px 13px 2px rgb(0, 0, 0);
 }
+@keyframes wrapper-1VLyxH
+{
+    100%{box-shadow: 0px 0px 150px 16px rgba(255, 41, 248, 0.616)!important;}
+    50% {box-shadow: 0px 0px 200px 0px rgba(255, 0, 247, 0.246)!important;}
+    0%  {box-shadow: 0px 0px 150px 16px rgba(255, 41, 248, 0.616)!important;}
+}
+@keyframes avatar-3mTjvZ
+{
+    100%{border:2px solid #ff00ff}
+    50% {border:2px solid #ff00ff00}
+    0%  {border:2px solid #ff00ff}
+}
+.wrapper-1VLyxH
+{
+ animation:  10s infinite wrapper-1VLyxH;
+}
+ .avatar-3mTjvZ 
+ {animation:10s infinite avatar-3mTjvZ;}
 .reaction-2A2y9y.reactionMe-3I9gFK {
     background: url(https://pa1.narvii.com/6988/de24bd1…r1-800-600_hq.gif)!important;
     border-color: var(--brand-experiment);
