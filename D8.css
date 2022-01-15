@@ -149,3 +149,12 @@ background-size: cover;
 background: url(https://i.pinimg.com/originals/4e/30/c9/4e30c95….gif)!important;
     background-size: cover!important;
 }
+.avatar-3mTjvZ {
+    border: 7px solid var(--background-tertiary);
+    background-color: var(--background-tertiary);
+    position: absolute;
+    top: 76px;
+    left: 300px;
+    -webkit-box-sizing: content-box;
+    box-sizing: content-box;
+}
