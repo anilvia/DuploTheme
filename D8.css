@@ -73,7 +73,8 @@
     -webkit-transition: background-color .15s ease-out,color .15s ease-out;
     transition: background-color .15s ease-out,color .15s ease-out;
     background: url(https://cdn.discordapp.com/attachments/679296386944073729/807270253565575188/-1_2.gif);
-    background-size:cover; 
+    background-size:cover;
+    border-radius: 50%; 
     color: #f0f8ff00;
 }
 .wrapper-3kah-n.selected-1Drb7Z .childWrapper-1j_1ub, .wrapper-3kah-n:hover .childWrapper-1j_1ub {
