@@ -177,3 +177,7 @@ background: url(https://i.pinimg.com/originals/4e/30/c9/4e30c95….gif)!importan
     -webkit-box-sizing: content-box;
     box-sizing: content-box;
 }
+.clickable-28SzVr.container-1oeRFJ:active, .highlighted-3PcOfB.container-1oeRFJ, .selected-1-Z6gm.container-1oeRFJ {
+    color: var(--interactive-active);
+    border: 1px solid #d300ff6e!important;
+}
