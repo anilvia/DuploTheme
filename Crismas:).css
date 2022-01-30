@@ -1,3 +1,15 @@
+@keyframes reacti
+{
+    100%{box-shadow: 0px 0px 1px 0px rgba(255, 41, 248, 0.616)}
+    50% {box-shadow: 0px 0px 50px -5px rgba(255, 41, 248, 0.616)}
+    0%  {box-shadow: 0px 0px 1px 0px rgba(255, 41, 248, 0.616)}
+}
+.mainContent-20q_Hp:hover{box-shadow: 20px 0px 50px 0px rgba(255, 41, 248, 0.616)!important}
+.mainContent-20q_Hp{transition: 0.5s ease;}
+.lookBlank-21BCro:hover{background:rgba(255, 41, 248, 0.616)!important;transition: 0.5s;}
+
+.reaction-2A2y9y{transition:0.5s;}
+.reaction-2A2y9y:hover{animation: 5s infinite reacti;background-color: rgba(92, 91, 91, 0);transition:0.5s;}
 .layout-1qmrhw{background: transparent;border-radius: 5px;transition:0.5s!important;}
 .layout-1qmrhw:hover{border-radius: 5px;transition:1s;background-color:#636363d1!important;}
 .typeWindows-2-g3UY {
