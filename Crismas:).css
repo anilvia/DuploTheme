@@ -1,8 +1,8 @@
 @keyframes reacti
 {
-    100%{box-shadow: 0px 0px 100px -5px rgba(255, 41, 248, 600)}
+    100%{box-shadow: 0px 0px 50px -10px rgba(255, 41, 248, 0.616)}
     50% {box-shadow: 0px 0px 50px -5px rgba(255, 41, 248, 0.616)}
-    0%  {box-shadow: 0px 0px 1px 0px rgba(255, 41, 248, 0.616)}
+    0%  {box-shadow: 0px 0px 0px 0px rgba(255, 41, 248, 0.616)}
 }
 @keyframes avatar-3mTjvZ
 {
