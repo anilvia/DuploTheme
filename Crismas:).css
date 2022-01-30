@@ -4,6 +4,15 @@
     50% {box-shadow: 0px 0px 50px -5px rgba(255, 41, 248, 0.616)}
     0%  {box-shadow: 0px 0px 1px 0px rgba(255, 41, 248, 0.616)}
 }
+@keyframes avatar-3mTjvZ
+{
+    100%{border:2px solid #ff00ff}
+    50% {border:2px solid #ff00ff00}
+    0%  {border:2px solid #ff00ff}
+}
+.avatar-3mTjvZ {
+animation: 10s infinite avatar-3mTjvZ;
+}
 .mainContent-20q_Hp:hover{box-shadow: 20px 0px 50px 0px rgba(255, 41, 248, 0.616)!important}
 .mainContent-20q_Hp{transition: 0.5s ease;}
 .lookBlank-21BCro:hover{background:rgba(255, 41, 248, 0.616)!important;transition: 0.5s;}
