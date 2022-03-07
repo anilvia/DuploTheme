@@ -42,11 +42,11 @@ animation: 10s infinite avatar-3mTjvZ;
     background-position: center;
     background-size: 101%;
 }
-/* New Year */
+/* New Year
 .scrollableContainer-15eg7h {
     overflow-x: hidden;
     overflow-y: scroll;
-    /*background: url(https://cdn.discordapp.com/attachments/827953319724449843/923165186964217927/IndelibleDigitalFly-size_restricted.gif);*/
+    background: url(https://cdn.discordapp.com/attachments/827953319724449843/923165186964217927/IndelibleDigitalFly-size_restricted.gif);
     max-height: 50vh;
     border-radius: 8px;
     border-top-left-radius: 8px;
@@ -71,3 +71,14 @@ animation: 10s infinite avatar-3mTjvZ;
 background: url(https://cdn.discordapp.com/attachments/827953319724449843/923165186964217927/IndelibleDigitalFly-size_restricted.gif);
 background-size: cover;
 }
+.mainContent-20q_Hp[data-list-item-id="channels___535177625505759233"]{
+background: url(https://cdn.discordapp.com/attachments/827953319724449843/923165186964217927/IndelibleDigitalFly-size_restricted.gif);
+background-size: cover;
+transition: 1s;
+}
+.mainContent-20q_Hp[data-list-item-id="channels___535177625505759233"]:hover{
+background: url(https://cdn.discordapp.com/attachments/827953319724449843/923165186964217927/IndelibleDigitalFly-size_restricted.gif);
+background-size: cover;
+transition: 1s;
+}
+*/
